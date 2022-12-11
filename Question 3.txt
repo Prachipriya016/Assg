@@ -1,0 +1,13 @@
+A. What is reverse-i-search in a Linux terminal?
+Answer  Ctrl+r
+
+B. How do you list out the hidden directories using Linux command line tool?
+Answer  ls -a
+
+C. How comfortable are you with using Linux-based OS like Ubuntu, Centos, etc?
+Aswer Yes I'm comfortable with Linux-based OS like Ubuntu. I have basic knowledge of Linux Commands and also shell script.
+
+D. Have you ever used Servers to host any web applications in the past? If yes, what
+services did you set up (Like- Apache/Nginx/FTP/SMTP, etc)? 
+
+Answer: I have used Apache Server in my course curriculum while studing the servlet. 
